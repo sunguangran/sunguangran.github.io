@@ -11,19 +11,19 @@ url: "http://sunguangran.com"
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: leopard 
+    duoshuo: sunguangran
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: sunguangran
+    github: sunguangrn
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: sgran8787@gmail.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+    id: 8ba1c6be0953b6f9c2ba38e57f615421
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
